@@ -1,0 +1,9 @@
+name: 'ifta_project'
+version: '1.0'
+config-version: 2
+
+profile: 'ifta_project'
+
+model-paths: ["models"]
+target-path: "target"
+clean-targets: ["target"]

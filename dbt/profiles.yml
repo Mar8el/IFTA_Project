@@ -1,0 +1,12 @@
+ifta_project:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: postgres
+      user: "{{ env_var('DBT_USER') }}"
+      password: "{{ env_var('DBT_PASSWORD') }}"
+      port: 5432
+      dbname: "{{ env_var('DBT_DB') }}"
+      schema: "{{ env_var('DBT_SCHEMA') }}"
+      threads: 1
