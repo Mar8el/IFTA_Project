@@ -1,0 +1,401 @@
+XL2   Æ  nÄ&—Ä                Ówè9Ñ‹¥ÄW®åý Å@ƒ¤Type¥V2ObjÞ ¢IDÄ                ¤DDirÄcù½Y–‹I×´ú~ë905¦EcAlgo£EcM£EcN §EcBSizeÒ   §EcIndex¦EcDist‘¨CSumAlgo¨PartNums‘©PartETagsÀ©PartSizes‘Ò  •ÐªPartASizes‘Ò  •Ð¤SizeÒ  •Ð¥MTimeÓwè9Ñ‹¥§MetaSys¼x-minio-internal-inline-dataÄtrue§MetaUsr‚¬content-type¨text/csv¤etagÙ ad63705d520cbf42af95bd9b725fdcb5¡vÎh½¯Î÷‘Y¤nullÅ•ðªÕ31Ž¥Ú÷…¦4;°B÷1äã	ù·Ê‰@œzk¸1transaction_id,vehicle_id,date,city,state,diesel_gallons,fuel_type,price_per_gallon,DEF_gallons
+52493a4c-0080-40f2-a957-c5016a0f0af2,veh046,2025-11-11,New Stephanie,OK,129.65,Diesel,3.15,1.98
+94737db3-67aa-4cdb-b498-521e5784882e,veh425,2025-11-11,West Daniel,ND,51.59,Diesel,3.48,8.9
+415f6c75-7b6b-4b47-bcf2-1a5b949bfc81,veh076,2025-11-11,East Shannonbury,OR,147.63,Gasoline,3.49,4.93
+38e04689-143d-465e-bca3-2844a3063c8d,veh239,2025-11-11,South Marybury,MI,50.98,Diesel,3.03,14.67
+a6adc7f4-51f0-4e61-b66a-2277a38876f3,veh075,2025-11-11,Port Victoria,IA,33.77,Diesel,3.29,17.0
+7ea04353-c8c6-4705-9f76-4d632ac4a17d,veh448,2025-11-11,North Emily,AZ,11.49,Diesel,3.49,13.41
+a90b7abf-2dde-454e-a8f1-300866adc943,veh496,2025-11-11,Roachport,NH,104.14,Gasoline,3.36,9.09
+c6864ecc-f86e-4788-a26a-d3e1688c6a7c,veh076,2025-11-11,West Andreaport,WI,137.97,Gasoline,3.22,7.66
+9668bc0f-c6ad-4b4c-a1dd-509fb416367a,veh086,2025-11-11,Lake Priscillachester,CO,36.2,Gasoline,3.0,18.36
+7598d7a3-851a-4684-b8fb-49bb7995a322,veh323,2025-11-11,Lake Amber,GA,24.72,Diesel,3.31,15.68
+4b722e1c-d7d3-4004-994d-2df53649bac8,veh288,2025-11-11,New Robert,WV,86.91,Diesel,3.34,14.17
+1b567ca7-4c96-4ac8-8a69-3ad2e0e28315,veh355,2025-11-11,Christinaton,FL,127.82,Gasoline,3.42,2.99
+4e8fe0e1-3e58-4078-8f13-c2728b60aff8,veh466,2025-11-11,Batesburgh,NH,71.52,Gasoline,2.96,8.73
+8efd423d-392c-43d3-b11a-fe885e34980e,veh266,2025-11-11,Lake Russell,KY,124.67,Gasoline,3.19,1.62
+95d0768b-dbf9-4f52-ae44-60781ed853b2,veh487,2025-11-11,West Allenmouth,KY,48.49,Gasoline,3.13,2.79
+94f3f1f4-ff7b-46bc-b821-bfa82fae6d89,veh122,2025-11-11,Lake Rebecca,ID,130.6,Diesel,2.91,13.06
+ab26051a-aac2-474d-8d48-94bdacc3c370,veh375,2025-11-11,East Susan,CA,97.57,Gasoline,3.1,0.34
+02dfab52-8135-4fbd-b88b-dd90007d2362,veh193,2025-11-11,Port Ashley,SD,18.75,Gasoline,3.06,0.23
+21a90709-6de9-46a5-8d96-afbd6274d2d3,veh388,2025-11-11,Port Teresachester,VT,93.98,Gasoline,3.36,6.64
+54eefe90-1a5c-48f3-9386-755b96f977fa,veh465,2025-11-11,North Sharon,CT,78.7,Gasoline,3.06,9.04
+c359c54f-d7c1-4360-ac9a-799f01e17b27,veh169,2025-11-11,South Stevenberg,SD,102.06,Diesel,3.1,12.93
+72af2eb4-21ef-4857-a13d-c81e6cabf627,veh069,2025-11-11,North Robertport,ID,102.5,Diesel,3.38,8.57
+72050177-b67c-45e7-9f8f-56a310f8f646,veh187,2025-11-11,North Matthewburgh,IL,22.36,Gasoline,3.37,15.53
+bc849e15-f3e0-41ea-9398-725c63a7c84a,veh321,2025-11-11,Paulfurt,NJ,96.78,Diesel,3.49,2.43
+1188b139-790e-455e-9c3e-c40aa9d4e806,veh038,2025-11-11,West Nathan,NC,63.09,Diesel,3.25,6.84
+5e6135a1-35cc-430a-8f75-19ddcb54406f,veh299,2025-11-11,North Andreafort,CT,134.01,Gasoline,3.45,8.73
+26cca903-4914-443c-bd04-de324033b099,veh220,2025-11-11,Carrilloville,MO,133.53,Diesel,3.49,15.38
+559033d0-f5ce-4ff4-9cc3-f1fc1c0b5152,veh304,2025-11-11,Duaneborough,SD,109.96,Gasoline,3.42,19.57
+0a0e17ca-8ba6-4e28-a4e2-29a1870060ab,veh150,2025-11-11,Robertaberg,NC,76.67,Gasoline,3.37,13.51
+8df6796d-c447-4e57-b7fd-b48496998ae4,veh139,2025-11-11,Walterville,IA,21.45,Gasoline,3.15,0.44
+b8b90c67-11ba-439a-a332-49ba748db0ec,veh231,2025-11-11,Jeffreyhaven,CO,141.74,Gasoline,2.91,3.22
+7139c0f7-b6aa-4be7-a4cc-be79882c62d1,veh133,2025-11-11,Richardsontown,MT,26.23,Gasoline,2.89,19.06
+d5986ef7-1fec-4c0e-8a2d-2a33130c4609,veh242,2025-11-11,Port Monique,MS,142.15,Diesel,3.22,3.77
+af90ce2a-d139-4994-b6da-90041b3c75ef,veh375,2025-11-11,Johnville,VA,71.38,Gasoline,3.19,11.91
+4b618b1e-e8db-4536-8d2d-995f61208af3,veh066,2025-11-11,New Jennifer,FL,72.25,Diesel,3.06,12.71
+605a37d1-e357-4527-b312-a3016ef2b813,veh453,2025-11-11,South Bradley,AR,111.82,Diesel,2.91,5.05
+6afb1964-30b8-4ef5-9b69-24ff6b1624c5,veh166,2025-11-11,Danielston,KY,107.03,Diesel,3.2,19.09
+e95f2415-36ca-4244-be98-1696613ea94f,veh265,2025-11-11,Morrisonland,CO,72.31,Diesel,2.96,9.45
+c9d7153c-5374-4e84-82aa-aaf8f96d7741,veh346,2025-11-11,Perezmouth,GA,52.83,Gasoline,3.19,18.38
+1813f2b2-9a70-4a0d-a795-bb45b18e6109,veh132,2025-11-11,Lake Peterview,MO,62.72,Diesel,3.16,1.09
+a56935b9-7093-45ed-9cf8-65a691f1afa0,veh306,2025-11-11,South Maryville,IN,89.7,Gasoline,2.99,8.82
+e07a9f1b-60e5-4fa5-a007-b1e43cfdebd2,veh212,2025-11-11,Port Julie,IA,83.87,Gasoline,3.37,2.44
+b4b99d08-f6f4-46c9-9f5c-9c6e3d9b8bac,veh214,2025-11-11,Lake Keithmouth,GA,84.2,Diesel,3.44,9.41
+51b81fdf-1133-4cf4-a98a-67a23bbc9e98,veh489,2025-11-11,Pittmanton,CO,58.39,Diesel,3.16,6.5
+c8492ffa-f03a-49b4-8375-38b3f930f8a3,veh022,2025-11-11,South Alexandrafort,TN,73.4,Diesel,3.28,5.95
+62dd601e-8f9a-466b-9043-dd00c96b57d4,veh498,2025-11-11,West Kevinmouth,WA,59.12,Diesel,3.24,2.48
+a07e4574-cae0-44ca-af51-cf7e8e137998,veh152,2025-11-11,Lake Julia,OR,141.35,Gasoline,3.29,14.51
+15731508-2297-4783-88ee-1eb2f1a11909,veh100,2025-11-11,Danielview,MO,64.5,Diesel,3.14,9.16
+24e36fb9-2e46-44c4-9892-11c6c83e17c9,veh059,2025-11-11,Port Kenneth,IL,115.26,Diesel,2.96,4.66
+4810ad98-f09b-436f-bfde-c04db373fa80,veh215,2025-11-11,Hallchester,NJ,138.5,Diesel,3.16,15.88
+7427fe68-d916-483d-86b6-cacf3272b45b,veh425,2025-11-11,Lake Jill,IL,134.86,Gasoline,3.29,9.48
+8f85feb7-5028-46c0-bcae-283c408e69d5,veh141,2025-11-11,Port Shaunburgh,IA,136.88,Diesel,3.34,10.57
+4e68fa55-3485-403b-a7cc-75869d366dfd,veh132,2025-11-11,East Rebecca,MA,140.42,Diesel,3.12,15.96
+a72ae38e-d0d0-4eb8-bc10-7185994d9fc9,veh352,2025-11-11,Mitchellmouth,NY,79.77,Diesel,2.96,13.28
+fdc7671d-0876-4219-896a-610f4afed935,veh382,2025-11-11,Singhville,KS,30.82,Diesel,2.99,18.88
+5878027a-83a6-4bc9-919e-cc4b7dd96bb7,veh369,2025-11-11,Ortizchester,SC,54.56,Gasoline,3.25,17.4
+c3b7689a-5c1c-4c6d-9770-f07b3607e429,veh060,2025-11-11,Samanthaburgh,IA,58.43,Gasoline,3.01,13.96
+3576cbfa-1fac-4144-a230-33a2da3717ea,veh381,2025-11-11,Kellyside,WY,117.07,Diesel,3.25,4.0
+92374df1-fe7e-4e33-a726-1b2b3b8f2481,veh500,2025-11-11,South Jesse,MD,126.48,Diesel,2.96,13.8
+4a2b754b-8a6b-47ab-be11-68471fdecd17,veh044,2025-11-11,New Timothychester,MO,27.16,Gasoline,3.31,5.26
+affdcda9-c64c-4d5c-aa8b-2f672e25dd8b,veh014,2025-11-11,Lisamouth,GA,114.78,Diesel,2.89,11.65
+1601e22d-02b5-46be-af07-72f38f602473,veh339,2025-11-11,East Jeffery,WV,54.38,Diesel,3.39,5.85
+76be84ce-9f8a-4f32-9c4e-1733418bcb4f,veh352,2025-11-11,Lake Michael,MT,79.15,Gasoline,3.14,17.95
+3abe8ce6-7284-4111-ad12-549609f91941,veh263,2025-11-11,Lake Breanna,MS,62.37,Gasoline,2.99,7.36
+7373cb83-f9ec-40d6-a8f0-7e66e41f7c4a,veh041,2025-11-11,Guerrachester,OK,69.53,Gasoline,3.07,19.0
+fa544bc3-eaca-4f89-b8c9-c9e273a3c985,veh170,2025-11-11,Port Ginafurt,DE,112.79,Gasoline,2.94,8.72
+4b846900-4883-4263-87b9-c98351105d8d,veh051,2025-11-11,Hawkinsville,WV,116.91,Diesel,3.4,16.61
+f9d74514-a950-4c0b-85f6-cc52f4b7d6f8,veh328,2025-11-11,Jonesfort,WI,103.53,Gasoline,3.49,16.55
+d287b61b-362e-40ad-a87e-6559c7d60d7e,veh138,2025-11-11,Lake Susanburgh,WY,65.68,Diesel,3.46,2.59
+335fb188-89a0-449f-a951-f2be69e2798d,veh346,2025-11-11,Lindastad,NE,122.5,Diesel,3.36,12.24
+d0d08f4c-defa-42ad-948b-d8506edf5603,veh110,2025-11-11,Grahamhaven,IL,128.61,Diesel,3.25,7.14
+bbdbb0d4-b31c-4d55-8520-d8df03995536,veh339,2025-11-11,West Edward,SD,81.87,Diesel,3.17,10.79
+372e53ad-2200-47a1-8326-3e6805e9eea6,veh458,2025-11-11,North Paulaborough,AL,68.17,Gasoline,3.18,7.4
+06460ca8-f2e9-40fd-81c5-5e217ef054dd,veh152,2025-11-11,North Ginahaven,MA,51.92,Diesel,3.07,4.22
+07121a29-2c88-409c-b111-3ecb071ab8bc,veh121,2025-11-11,Morriston,IN,113.11,Diesel,3.05,11.51
+c37c44fa-84d6-40cd-9cf2-dcf331aab2dc,veh277,2025-11-11,Ramirezland,KS,18.98,Diesel,3.42,12.34
+e687e24a-cc82-4411-860f-c16e6f003614,veh327,2025-11-11,New Sandraport,IL,123.75,Gasoline,3.03,8.27
+5a947fff-d099-4078-9416-315e98b8e16a,veh488,2025-11-11,Robintown,FL,76.04,Diesel,3.1,7.85
+d0fb8c83-a34b-4ed4-b869-7047b9ef656e,veh139,2025-11-11,West Anthonyfurt,MD,69.13,Gasoline,3.38,4.74
+85da0c29-7bba-4051-9413-f2d4d9ca7605,veh108,2025-11-11,Rachaelmouth,MD,36.57,Diesel,3.22,5.49
+823f1584-8810-4de1-87ad-7998e43e00f1,veh233,2025-11-11,Camachoside,ID,91.57,Gasoline,3.46,15.38
+62ec91db-b3d9-465c-95d9-c19b322b721a,veh427,2025-11-11,New Richardstad,VT,129.55,Gasoline,3.08,4.38
+e7b8a04c-9819-4f18-91bd-edbcb0ab24c9,veh361,2025-11-11,South Danielle,NM,58.48,Gasoline,3.48,3.71
+a3d2562f-cd32-4d91-8045-ac9fbcd0f4c6,veh284,2025-11-11,Santiagoland,NM,29.5,Gasoline,3.45,10.12
+f392ee67-1d22-446d-87cf-a7991fa6e191,veh053,2025-11-11,Austinfurt,CT,114.57,Gasoline,3.23,5.86
+61e86047-e528-49be-86dd-a95280c8368f,veh424,2025-11-11,Spencerport,NJ,81.94,Gasoline,3.16,19.18
+8865e2a9-360d-43f5-bb11-baa274df98c5,veh457,2025-11-11,Rayborough,IN,113.72,Gasoline,3.28,1.92
+456e3ecf-a0bc-4a38-b9f0-b41b5e4bcbed,veh167,2025-11-11,Port Lisa,WV,141.79,Diesel,3.45,11.31
+c51a4ccf-7059-461d-8189-f683ae7fd7b7,veh265,2025-11-11,Robertchester,IN,138.04,Gasoline,3.44,19.05
+b5f50fed-1d19-4d3e-a953-cb5cef194b8d,veh306,2025-11-11,Markmouth,CA,11.06,Diesel,3.41,0.99
+4c31431e-bac7-439f-a25e-cb2590c6b88f,veh222,2025-11-11,Josephview,VT,69.59,Diesel,3.03,14.62
+1028d729-3c5c-4203-97d1-48bf29381916,veh228,2025-11-11,Ashleychester,IN,52.68,Gasoline,3.1,19.08
+ea3a4fe7-3f80-4b57-8f63-dbb434f901ea,veh205,2025-11-11,Davidmouth,MO,94.18,Diesel,2.94,5.82
+65ef16d7-1fec-4040-a347-d388c7f1df7f,veh351,2025-11-11,Lake Benjamintown,WY,122.5,Diesel,3.35,13.45
+bea6ab35-74d1-45be-9146-9a30b2847fbc,veh299,2025-11-11,South Colton,ME,33.05,Gasoline,3.48,10.84
+faff74d6-9b07-42fc-bad4-b2c486c2e915,veh464,2025-11-11,Jenniferside,WV,144.19,Diesel,3.04,8.45
+2d151e44-19e4-4560-a90c-05aabdfc1ec0,veh204,2025-11-11,Parkerview,NH,126.49,Diesel,3.38,18.61
+fe3fc529-9b81-4168-b4d0-a00bc5a83f56,veh381,2025-11-11,Palmerbury,NH,127.0,Diesel,3.22,12.48
+87d9307c-841a-45cf-b566-ce3c5ef5804a,veh241,2025-11-11,Timothymouth,MD,90.36,Gasoline,3.47,7.39
+56e890e4-03a6-46d3-8a5e-6774b7e21521,veh448,2025-11-11,Joshuafurt,MA,119.75,Gasoline,3.06,10.55
+8019ce31-2858-4e38-8574-592c5087d15e,veh439,2025-11-11,Port Johnberg,ME,56.03,Gasoline,3.18,0.54
+35cc1a46-aca8-4105-a77d-65d1882c484f,veh482,2025-11-11,Stephanieberg,OR,98.21,Diesel,3.47,16.75
+a2643097-3a7f-48a2-a09a-651d3c265278,veh183,2025-11-11,Rebeccaton,ND,77.45,Diesel,3.41,13.19
+469c3c80-01d2-4ec9-9429-640fc2079c43,veh341,2025-11-11,Abigailberg,MA,27.22,Gasoline,3.35,2.88
+7146435b-0a2d-4140-be4e-0556fb751a50,veh426,2025-11-11,Leemouth,VA,50.03,Gasoline,3.07,7.22
+862bbf6a-1bd6-49cb-9b2e-1d8a4b098e1a,veh084,2025-11-11,Port Christopher,NY,46.23,Gasoline,3.48,7.89
+7dc67bd9-3bb1-4102-86eb-7fd56783a42c,veh066,2025-11-11,North Kellychester,OR,71.03,Diesel,3.45,14.65
+0799f14c-c83e-43d7-979b-ab61fd5e5138,veh260,2025-11-11,Adamchester,NY,21.45,Diesel,3.3,10.62
+e53e15d7-4d78-4dec-b85b-00200fa71b2a,veh405,2025-11-11,Carolynfort,DE,86.24,Diesel,2.99,10.6
+43b06564-8320-485f-9044-0c3389c033ef,veh285,2025-11-11,Lake Thomas,WY,60.66,Gasoline,3.31,17.76
+1f7cef83-60a5-4699-9d3f-e9c564af2d81,veh206,2025-11-11,South Courtneyton,MS,106.05,Gasoline,3.14,18.07
+bc6362eb-0946-4e22-b0d0-cb2ccfc9e4b4,veh078,2025-11-11,Anthonyport,TX,19.92,Diesel,3.02,13.02
+8f108958-3c3d-47a0-ae80-8bf7ce35b49a,veh429,2025-11-11,West Petermouth,MS,130.36,Gasoline,3.11,16.83
+73bcec4e-f1ca-4aee-82b7-f4d163911796,veh052,2025-11-11,Mannland,IL,75.52,Diesel,3.44,1.13
+296beea3-abed-4a60-a59c-1086d5322ddb,veh226,2025-11-11,East Alexfort,VT,20.71,Gasoline,3.05,4.58
+adb22a67-e133-4333-863a-0e1850c69295,veh372,2025-11-11,North Jeffrey,KY,86.51,Diesel,3.03,11.7
+ac1467ad-4b92-425a-ae76-f1d85b9de40f,veh061,2025-11-11,Annmouth,KY,62.97,Diesel,3.44,12.56
+ca5d297d-92e3-4dfe-9d78-6e439981bf8a,veh133,2025-11-11,West Bob,CO,14.3,Diesel,3.22,3.7
+dba495e7-0f25-4ba6-8ae2-bd1e064b9f27,veh310,2025-11-11,Denisestad,GA,132.0,Diesel,3.3,0.43
+36789442-6230-415f-9802-33ec4046a2ff,veh161,2025-11-11,Frenchport,NJ,75.18,Diesel,3.06,15.7
+b6844848-dd44-4211-83a9-0da1556064bb,veh208,2025-11-11,Mcguirestad,LA,142.42,Diesel,3.19,11.12
+380dc64a-9eaa-4f65-88f7-2f3dadeaf84d,veh298,2025-11-11,Cruzborough,WA,31.2,Gasoline,3.33,9.87
+304fd76a-b3a0-401b-97db-7f55d734ff8c,veh218,2025-11-11,West Lisa,NY,21.91,Diesel,3.14,17.53
+ec913569-0a47-4052-9263-d459a8b4b733,veh157,2025-11-11,New Michaelborough,LA,140.22,Diesel,3.12,10.42
+1d253b7d-8370-492b-8c44-4e3ade3f4d9f,veh472,2025-11-11,East Elizabethtown,NE,38.31,Gasoline,3.2,9.59
+71367fce-5aba-4370-b87a-8891a1c56f43,veh146,2025-11-11,New Sabrinafurt,DE,103.62,Gasoline,3.2,18.92
+b0168668-9698-4fba-98d6-03e6026d1746,veh307,2025-11-11,South Charlesville,MT,102.5,Gasoline,2.92,7.3
+da99b2ec-a5c4-495e-a565-71441f539a5c,veh428,2025-11-11,Port Jenniferhaven,MO,138.68,Gasoline,3.1,19.96
+2b418d0e-aa1f-44d7-b9c9-b71eaea2405b,veh376,2025-11-11,Lake Robert,OK,138.78,Diesel,3.05,7.39
+b7707e74-cfa4-4165-885e-be6023317771,veh051,2025-11-11,Staceyfort,NY,20.95,Gasoline,3.02,18.36
+6a653ea2-5d0e-4e2f-97a7-6d959d03e07d,veh156,2025-11-11,West Dillontown,VA,72.34,Gasoline,3.38,17.84
+e171d86b-7adf-4e43-b60c-98144fe09cef,veh324,2025-11-11,East Lisamouth,NY,119.53,Diesel,3.04,6.47
+fdc55b45-39f3-4f18-bea7-39daf1ef5c4c,veh138,2025-11-11,Barbaraborough,CA,109.42,Gasoline,3.12,17.19
+8bd24a35-d250-4bb8-9bf2-76dfe2792c58,veh094,2025-11-11,Meghanstad,WV,123.62,Diesel,3.15,8.83
+ae21126a-7264-46fb-932b-d9b9838033ba,veh049,2025-11-11,New Jonathon,SD,57.78,Diesel,3.13,4.92
+04eec880-ae7a-4d3c-b0cb-45545237a3f2,veh144,2025-11-11,Calhounstad,IN,75.93,Diesel,3.1,2.18
+bc50421c-b5e3-4808-ab30-e54ea7357177,veh029,2025-11-11,Port Roseshire,NH,40.97,Gasoline,3.12,13.17
+d2af8af7-87b4-4b5a-8d81-a06f783b9266,veh226,2025-11-11,Lake Briana,NE,139.65,Gasoline,3.19,19.06
+462c515f-9c03-4cde-9c3c-b0e7b2267b5f,veh167,2025-11-11,Lake Brandonton,SD,77.17,Diesel,3.39,2.45
+af1d5078-d202-451f-bcec-c2e215b2a390,veh040,2025-11-11,Lake Katieburgh,MS,48.15,Gasoline,2.9,4.63
+4380890a-95af-4e99-b838-4e865c6b326d,veh292,2025-11-11,Port Danielshire,OR,61.53,Gasoline,3.36,9.14
+e473082f-268a-418b-8e8c-984bc6983dea,veh312,2025-11-11,Russellview,NM,62.23,Diesel,2.99,10.73
+0f0ca8ae-c4e5-4f0c-996d-b0b23b603a18,veh043,2025-11-11,Lake Rachelside,AZ,57.71,Gasoline,3.22,0.33
+1fa715e5-6e5e-4b5b-a835-10aac8ef6f17,veh088,2025-11-11,Stevenshire,VT,33.16,Diesel,3.08,17.69
+0560c0b3-3f3d-4b74-b7a5-d48bf6fd1e91,veh486,2025-11-11,Jonesbury,NV,15.5,Gasoline,3.18,19.62
+c4c9bb82-b397-4046-ab76-fed3b721535c,veh302,2025-11-11,Rodriguezview,AL,48.24,Diesel,3.4,6.73
+9b54fa91-65a6-47b5-86b1-41d99c6dd172,veh392,2025-11-11,Christopherborough,NM,14.13,Diesel,2.91,4.02
+67bbc320-a65b-469d-bb09-798f55cfb941,veh035,2025-11-11,Port Elizabethside,CA,137.06,Gasoline,2.98,1.88
+2f00c92f-9dc3-4fa5-9589-d1e3ecf4eb79,veh097,2025-11-11,Ashleyton,DE,39.45,Gasoline,2.89,13.68
+48800522-9efd-4ea3-996e-c1820973329c,veh141,2025-11-11,Bellland,AR,78.51,Diesel,3.46,12.06
+f411b6cc-42b4-4be2-8450-a04459448e53,veh343,2025-11-11,East John,MT,146.77,Gasoline,3.46,15.46
+eba34885-82c8-4746-b753-5d219738c2ff,veh334,2025-11-11,North Bonnie,TX,21.73,Gasoline,3.4,10.27
+d8d98671-9a7f-480d-ad6e-6c3f060e5579,veh316,2025-11-11,New Victoriafort,CT,78.86,Diesel,3.31,17.79
+46b7ed5f-a48c-4938-9bba-2e24125b0481,veh217,2025-11-11,Douglasmouth,VT,59.17,Gasoline,3.26,7.02
+f4257be3-41c1-4162-915f-670c4d08f357,veh271,2025-11-11,South Kyle,GA,95.43,Gasoline,3.44,7.89
+fa87cb68-6a60-4499-bfcb-30dfb9102b38,veh325,2025-11-11,Travismouth,NJ,113.3,Diesel,3.14,6.33
+900130a1-049a-43fb-9066-d0b1a7f0fe62,veh127,2025-11-11,Owensstad,NY,64.68,Gasoline,3.36,0.89
+5672a133-6aa4-4f5c-ab18-62242f53c5b8,veh419,2025-11-11,Jacksonburgh,VA,24.81,Gasoline,3.36,14.82
+f5de34f2-5d53-4c90-bfaf-d0317df5e8ed,veh234,2025-11-11,Russelltown,MI,145.21,Gasoline,2.96,12.7
+e53f1424-c075-4edd-aa8a-8ef94c0266df,veh377,2025-11-11,Josephshire,OK,59.11,Diesel,3.15,6.5
+a4b34b52-4ad9-412b-9700-aaa10cf37292,veh142,2025-11-11,Sergioton,IL,74.23,Gasoline,3.49,5.13
+be0b651f-1510-4bdb-bf57-65270b3d2925,veh334,2025-11-11,Phamview,OH,87.42,Diesel,3.24,15.75
+904f85df-9ad2-4288-addc-84cd597b5ea6,veh379,2025-11-11,East Ryan,ID,138.6,Diesel,2.91,9.63
+ea21f05b-34c0-49e3-9132-3c4c0a7574f8,veh329,2025-11-11,Port Joshua,LA,127.67,Gasoline,3.17,17.46
+cc5d4dee-ef5f-4f20-a1c1-0510020a6265,veh094,2025-11-11,New Katherinefort,MI,146.78,Diesel,2.9,17.73
+59e368e5-657c-4728-8efc-56a48bd3362b,veh068,2025-11-11,Boyerton,LA,145.97,Diesel,3.12,17.39
+74434da9-a06d-49bc-bc47-c88baad3493d,veh259,2025-11-11,Reedburgh,DE,11.43,Gasoline,3.38,14.31
+44ea2af5-bf0d-4db4-8169-788d7e410a56,veh439,2025-11-11,Whitefort,MT,34.16,Gasoline,2.9,4.79
+26fa539f-75ce-4d6d-baec-b8b8d6406466,veh039,2025-11-11,West Richard,AZ,85.04,Gasoline,2.94,1.37
+fb924f5b-6cdd-4724-9845-5ebf584c382d,veh230,2025-11-11,Geraldbury,WY,83.83,Gasoline,3.4,13.54
+60a79c16-abea-401d-b277-d9e3cf658497,veh330,2025-11-11,North Nicholas,VA,28.27,Gasoline,3.01,7.87
+162f3c41-598f-4806-b44b-daf248135379,veh150,2025-11-11,Melissafurt,ME,49.83,Gasoline,3.34,9.98
+2b649f44-aa7d-4d1a-8d37-346acf7841ed,veh329,2025-11-11,Codymouth,CO,31.68,Gasoline,3.27,18.42
+fe1a006f-2af9-41ca-803c-1a22fa5fd2c2,veh313,2025-11-11,West Davidbury,KY,74.8,Diesel,3.3,10.64
+acfe0495-e80c-4d18-938d-a1b728474068,veh175,2025-11-11,Kirstenfurt,NJ,67.54,Gasoline,3.2,4.47
+6a9fd5f8-e10b-498b-b071-a0fe19d4d020,veh097,2025-11-11,Lake Catherine,VA,113.89,Diesel,2.95,12.88
+0278a2fe-aad7-429e-b5c5-4ebdbc7f8578,veh334,2025-11-11,Garzabury,TN,31.11,Diesel,2.9,18.42
+dcec608a-61fd-4120-82f2-39ccfad90300,veh484,2025-11-11,Port Melvin,SC,44.45,Gasoline,2.97,6.52
+becefebb-b34a-4ed0-82e1-933e2769e553,veh262,2025-11-11,Timothyfurt,NY,119.68,Diesel,3.08,14.68
+cb3d6d64-ce04-4b3b-9738-8d52d82dc904,veh175,2025-11-11,South Michele,MO,106.1,Gasoline,3.39,9.64
+e9c7bdee-9751-4e27-b26d-e5746f4e6e48,veh231,2025-11-11,East Alyssachester,OK,59.4,Gasoline,3.21,8.62
+62db45bb-5d4f-41f3-ab5f-1b1b3432c0bd,veh346,2025-11-11,Lake George,PA,22.53,Gasoline,3.17,0.17
+103b2ecf-5848-475b-9cd7-3dfebc83584b,veh432,2025-11-11,Lefort,MN,68.43,Diesel,3.42,3.56
+8cfac9fd-56e3-47b5-a246-cee7695cd4e2,veh181,2025-11-11,Reneehaven,IL,55.85,Gasoline,3.32,1.38
+33439b5c-d0cb-49f3-ae1d-b8fba74c83e2,veh246,2025-11-11,Myersburgh,IN,23.36,Gasoline,3.13,13.58
+bca880c1-eedf-4a96-a3cd-5e411dc6d418,veh106,2025-11-11,Port Kelseyfort,WV,13.89,Gasoline,3.31,14.71
+97b1d437-4de0-4817-8940-1c014aa2ec3d,veh226,2025-11-11,Port Michelefort,TN,138.46,Gasoline,2.91,3.47
+7128cc09-5183-4254-a281-d89b3fe605e9,veh242,2025-11-11,South Jamestown,OR,76.58,Gasoline,3.13,17.36
+fe5f63cf-44a9-4651-bb85-65d1f3e2c14b,veh368,2025-11-11,Andrewville,MS,99.79,Diesel,3.29,3.43
+81bc922c-7267-49dd-a8d9-af2d67f46453,veh153,2025-11-11,West Marytown,IL,104.98,Diesel,3.0,19.71
+5203bc88-4b24-48ce-b772-5203507cd3c8,veh325,2025-11-11,Jacquelineborough,IN,100.41,Diesel,3.38,16.98
+6b328933-9728-4966-bce9-b6638238a002,veh239,2025-11-11,West Peggy,NJ,109.99,Diesel,3.43,14.2
+e11e1e73-8efd-46bc-9e7f-36b7d182b2dd,veh045,2025-11-11,East Aaronchester,ME,137.39,Gasoline,3.43,16.91
+ee53c5a6-70b8-47ef-8720-d6bae022a0dc,veh482,2025-11-11,Port Dan,ME,47.57,Diesel,2.91,9.63
+f2d2c968-9d45-4817-b2d5-90b5c76011cd,veh087,2025-11-11,Stephaniestad,NV,53.42,Diesel,3.15,18.57
+9477d7ae-76dc-461a-b405-920fd964eba7,veh001,2025-11-11,Ethanburgh,DE,56.02,Diesel,3.4,15.58
+794f8a4d-6f69-4b94-b75e-c3836b53ce9e,veh392,2025-11-11,Williamport,MO,112.38,Diesel,3.19,15.78
+34008909-0670-497f-bfe3-6f2fa01ae2dc,veh180,2025-11-11,Grahamburgh,UT,65.63,Diesel,3.28,18.0
+cbcccc97-3bde-470d-91c9-4c5d58c211ad,veh406,2025-11-11,Thomastown,TN,44.52,Diesel,3.21,19.07
+a7bd86a6-2703-4c0b-8150-f2507fd695f7,veh350,2025-11-11,West Jennifer,AR,114.31,Diesel,3.35,7.76
+f49b04b9-b739-461b-b3c1-240adbdcfd55,veh187,2025-11-11,Shawfurt,NE,52.23,Gasoline,3.1,15.18
+bf52e6e7-dd3d-4859-8154-7145df1d5df8,veh057,2025-11-11,Jackland,OH,132.69,Diesel,3.04,12.71
+f43d7308-067d-445f-8d55-9dce99706e96,veh273,2025-11-11,South Damonstad,WI,117.34,Diesel,2.93,15.03
+1bd5666d-0b53-4ff5-b7ab-0a894cc7298c,veh416,2025-11-11,Alexmouth,MI,75.77,Gasoline,3.44,4.57
+7a872ce0-3a93-425b-ab25-0f56bc5dedd5,veh497,2025-11-11,Holdenside,AZ,67.76,Diesel,3.17,8.96
+5eb02368-a37d-4a5c-9961-949ff7c615de,veh308,2025-11-11,West Amymouth,WY,66.77,Diesel,2.93,11.64
+34010961-c10b-4646-97df-7d5c42d0c102,veh378,2025-11-11,Thorntonstad,UT,124.62,Gasoline,3.08,13.84
+44dae9a9-1a57-47ee-80c3-7f4ec872e93d,veh473,2025-11-11,South Sean,IN,147.64,Diesel,2.98,14.24
+1dd83c89-8fff-423c-94c4-d848382ded73,veh462,2025-11-11,New Teresafurt,OR,73.51,Diesel,2.91,10.73
+2955d5eb-e2ee-42e4-a724-0f683fa6a68a,veh091,2025-11-11,Hamptonburgh,MN,36.04,Gasoline,3.45,16.88
+8b4df53c-6a46-4046-aa84-3ee3731e6b01,veh205,2025-11-11,South Eric,ID,134.64,Gasoline,3.3,17.58
+c2c7b0d8-d17c-45db-90a0-039db0ccc878,veh018,2025-11-11,Kellyshire,WA,30.3,Diesel,3.13,5.17
+995f754e-e3f8-4bd7-8f31-86d8a7a4bad6,veh394,2025-11-11,Patrickside,MI,113.92,Diesel,3.35,6.26
+270bf10d-af93-43ed-9a03-94c7881914b4,veh166,2025-11-11,Wheelerburgh,DE,78.47,Diesel,3.49,14.88
+9ba2b9c1-fbd9-4137-859a-e8e24b258eeb,veh435,2025-11-11,Benjaminton,CA,112.63,Diesel,3.37,2.25
+0993baba-09dc-4e43-862e-1c8836e0ce43,veh072,2025-11-11,Lake Benjamin,RI,52.59,Gasoline,3.06,16.6
+4268e3fe-0d0a-4c75-9bd6-97793ada4282,veh330,2025-11-11,Kristinahaven,ME,64.84,Gasoline,2.92,11.79
+90b50745-446e-474f-a1d5-262f8bac150e,veh163,2025-11-11,Millermouth,IA,107.06,Diesel,3.05,4.72
+84e42696-7f36-4124-be71-b897e252986a,veh369,2025-11-11,Wilsonmouth,AZ,23.89,Gasoline,3.27,14.99
+e95167f7-73c0-4ff1-86e6-78f8c4082a3d,veh291,2025-11-11,Lake Karen,MA,62.32,Gasoline,3.21,15.33
+216e84ee-f7f4-46db-b0d0-477532625d34,veh166,2025-11-11,Dunntown,KS,122.98,Diesel,3.49,13.63
+0fdcb40e-47e6-45be-b7b1-ec84f4430cbd,veh240,2025-11-11,Lake Thomas,NY,39.07,Gasoline,3.34,12.33
+1bdd4678-dad9-4fcd-b1b4-331cfc17ff67,veh097,2025-11-11,West Margaretmouth,WY,78.75,Diesel,3.05,12.14
+4b9176f5-4609-4dec-bf61-44991452b73e,veh401,2025-11-11,Lake Joseph,IN,98.83,Diesel,3.19,10.87
+7ee00b4d-ad97-4015-8ca1-95004c9656c9,veh419,2025-11-11,East Edward,MD,112.58,Gasoline,3.25,8.49
+0083ad03-81ac-4937-b5ad-749447a411dc,veh367,2025-11-11,West Kimberlytown,CO,60.68,Diesel,3.4,18.42
+0cd49a96-eaca-429f-8d52-0b782638bbd0,veh328,2025-11-11,Wigginsfurt,NE,131.48,Gasoline,3.1,2.1
+5c788971-4ee4-46d4-a2ed-b7a9fb164f68,veh279,2025-11-11,Pattersonshire,MN,103.5,Diesel,3.31,0.62
+698b0b7b-b713-4dd9-a6e9-8364ca32923a,veh489,2025-11-11,Jamesview,TN,69.17,Gasoline,2.9,10.2
+927e9327-e674-417d-8f15-37782be70c7a,veh196,2025-11-11,Lake Elizabeth,MT,77.47,Diesel,3.15,17.52
+581f0cd3-01eb-444e-bc01-7c608f83a4fc,veh130,2025-11-11,Joyceside,DE,23.39,Gasoline,2.98,9.2
+b81b4f19-3395-4b7e-99b6-b2e0a3843a2d,veh152,2025-11-11,Lake Jose,AR,24.48,Gasoline,3.24,5.46
+db7069e2-0ddd-4bde-b310-cebb8c643bb4,veh370,2025-11-11,Lake Chelsea,SD,117.96,Diesel,3.19,9.04
+3b206956-3634-481f-ad44-4565a7be1cf2,veh193,2025-11-11,Lloydberg,NJ,12.15,Diesel,3.48,13.72
+c26b7b13-e947-49dd-8d84-5d90b6b13cfd,veh078,2025-11-11,New Melissastad,SD,12.08,Diesel,3.01,2.87
+831a180d-30f7-4315-88be-409f1db68c39,veh085,2025-11-11,East Barbaratown,VT,36.59,Gasoline,3.36,4.16
+29efe491-ba6d-472b-9d94-cc8095f9f2fb,veh164,2025-11-11,West Elizabeth,NE,57.81,Gasoline,3.41,18.42
+4510b492-91e1-4b91-9ad5-d15dc7352ba7,veh269,2025-11-11,West Whitney,WA,67.52,Gasoline,3.46,7.28
+bf09d143-3c64-48cd-84dd-a0f6e6c4e4b0,veh377,2025-11-11,New Dana,SC,19.58,Diesel,3.25,10.31
+5a482285-a934-495e-8b60-2986eeb73bf1,veh187,2025-11-11,Amandachester,AZ,11.68,Diesel,3.15,2.09
+afa1625c-c5b8-4e94-8162-53ffd4107584,veh271,2025-11-11,Annaburgh,MO,123.8,Gasoline,3.26,14.37
+3dad295d-3122-4e4d-9657-858c767cb884,veh194,2025-11-11,North Soniabury,SC,16.13,Diesel,3.05,13.22
+2e095d0f-2116-4696-b022-da5b20b5a665,veh201,2025-11-11,Mariestad,WA,59.73,Diesel,3.29,7.86
+70452f66-8bd9-41f1-85ad-3f36c6de65df,veh213,2025-11-11,Ortizburgh,NJ,73.46,Gasoline,3.06,2.02
+bf8f0010-dd3f-4744-abe3-fb76bc258228,veh318,2025-11-11,Taylormouth,NY,57.58,Gasoline,3.32,8.84
+d3df8ff5-ac5f-463d-9cd3-c3271adcab69,veh457,2025-11-11,Jermaineberg,CA,48.46,Gasoline,3.15,18.98
+2e621374-125e-47f3-8089-e5a0829514c2,veh270,2025-11-11,Bakerton,AZ,97.08,Gasoline,2.95,9.85
+aed57fad-d516-4de6-9f22-0ad8c0c8574e,veh417,2025-11-11,Lake Ryanburgh,AZ,116.81,Gasoline,3.41,10.77
+a01bbd6a-3ea3-40f5-9b95-2834af7e8585,veh049,2025-11-11,West Benjamin,NC,91.14,Diesel,3.41,2.25
+e89dae4b-097b-462a-91ba-3310a32390c3,veh026,2025-11-11,Sheilastad,AL,116.74,Gasoline,3.17,10.66
+65046f67-74be-4797-b4a9-f8afb326c2ff,veh198,2025-11-11,West Angela,NJ,82.51,Diesel,3.14,11.56
+67c7fdaa-1daf-4ed7-a0ca-a539dde6cbe9,veh354,2025-11-11,South Jesse,OH,139.01,Gasoline,3.12,17.2
+61d2becd-cfc4-49e6-9b0a-c054b79b75db,veh209,2025-11-11,North Kevin,WI,31.47,Gasoline,3.12,2.11
+d402261e-583a-47f0-af33-167ed9fe93de,veh113,2025-11-11,Brownborough,SC,37.78,Gasoline,3.14,2.64
+8acd6b7f-9901-4287-bb1d-03b65a93cc5a,veh047,2025-11-11,South Stephanie,CA,20.6,Gasoline,2.93,7.32
+af790617-5824-463d-ab5f-044f401c8c8b,veh206,2025-11-11,Jamesbury,CO,17.02,Gasoline,3.2,8.54
+428d4277-ea24-4bf3-9774-639417f28b7e,veh179,2025-11-11,Zacharyview,AZ,27.0,Gasoline,3.0,19.48
+2675cfc8-2a7c-485d-8064-bb925e9ea582,veh321,2025-11-11,Port Kellyfurt,NJ,37.26,Gasoline,3.07,11.96
+87fd3d19-73bb-4ee2-ba0f-c5f1086330d7,veh342,2025-11-11,Port Sarah,RI,95.34,Gasoline,3.49,3.54
+03bbf3da-5353-47a3-b5ca-00f2c33def69,veh250,2025-11-11,Lewisberg,NY,133.96,Gasoline,3.41,19.35
+fb780b43-2fb8-4d26-a448-cbda413667c5,veh170,2025-11-11,Longside,MA,52.32,Diesel,3.13,6.42
+f74803b4-70ad-4325-8b47-6bceff190bc6,veh273,2025-11-11,North Bobby,WI,56.11,Gasoline,3.26,11.66
+8d84fb25-7ff2-4508-aab0-e17513330cac,veh304,2025-11-11,Marshallland,IN,26.57,Gasoline,3.06,12.43
+cabf8954-310b-4c4e-bcf3-d8089e448731,veh435,2025-11-11,Port Kimberly,CA,89.08,Gasoline,2.95,13.84
+1ccb91a2-4ee2-4dee-b433-0f98968380c3,veh232,2025-11-11,North Tiffanyton,CA,31.63,Diesel,3.35,17.63
+2a264849-ca18-4bb3-a1f6-f74716442f17,veh181,2025-11-11,Jeremiahchester,MO,103.44,Diesel,2.99,2.51
+f0957b4d-1348-4f01-9787-70ddff58f825,veh258,2025-11-11,Port Diamondview,CA,18.81,Gasoline,3.42,2.92
+dfe61cc2-cb59-4737-b544-144132a6b909,veh473,2025-11-11,Valeriestad,MA,117.04,Gasoline,3.22,16.44
+e426089d-cf36-4d51-aa3e-424e379b3713,veh276,2025-11-11,Melissaland,OR,107.72,Gasoline,3.25,7.9
+47ebbf34-dd03-47d5-9eed-f0cc6888b46a,veh359,2025-11-11,Russellborough,MA,71.62,Diesel,3.27,15.47
+c5d4fc56-c7a8-44ae-b87a-20ed6b49459f,veh413,2025-11-11,New Christopherhaven,MA,141.3,Gasoline,3.14,17.41
+b11f2074-81d7-4db0-84a4-2558bb4b20c7,veh423,2025-11-11,Pricestad,IN,115.85,Gasoline,3.35,5.23
+ad540a5a-3cec-409a-b5e7-de03114c1d81,veh446,2025-11-11,Craigmouth,AL,53.37,Gasoline,2.89,12.99
+513df716-bafa-460b-aeae-ddf95ab61fe1,veh037,2025-11-11,Port Shelleybury,KY,86.01,Gasoline,3.48,4.07
+fd0f6ebb-e2ab-4d75-9158-e5f0050ab3b7,veh063,2025-11-11,West Amandamouth,CO,74.31,Diesel,3.19,4.49
+483a9660-437d-4e8f-a1ef-7fa055ee8239,veh264,2025-11-11,North Keith,KY,103.87,Diesel,2.97,7.83
+c0442dbd-8fca-4a20-90f9-c14700c3c7f6,veh342,2025-11-11,Amandachester,WV,130.46,Diesel,3.34,14.5
+482212d5-a414-49d4-8c3f-c6f68f2d65af,veh141,2025-11-11,North Tiffanyshire,NY,96.45,Diesel,3.33,14.4
+ce9e608d-208f-45e0-9af4-f14b27f904d7,veh020,2025-11-11,East Mariefort,SD,48.34,Gasoline,2.95,8.84
+80f24e4c-6c53-4fd9-b06c-37b08461b907,veh480,2025-11-11,Rogersburgh,CA,105.04,Diesel,3.16,6.3
+58db35fe-9834-478f-ad73-5dc5894f610f,veh332,2025-11-11,Goodwinview,IA,24.67,Diesel,2.99,16.23
+bcf17637-62ea-4805-822c-0845aa6af540,veh422,2025-11-11,Aaronmouth,OH,11.1,Diesel,3.05,6.91
+45d895a9-d3d4-4e66-bde3-27f87efc9eff,veh398,2025-11-11,North Robertborough,MI,129.6,Diesel,3.39,2.05
+29ba4a95-ea4e-410e-bfc3-ed51d240a9cb,veh006,2025-11-11,Port Stephanieborough,SC,42.03,Diesel,2.95,8.98
+d4378019-f9a0-45db-a102-3340fbf4357e,veh414,2025-11-11,West Donald,SD,15.39,Diesel,3.3,3.17
+f791a82d-54df-4b79-8245-f03aad885f9c,veh174,2025-11-11,Port Ryanview,WY,67.61,Diesel,3.25,3.89
+88c18867-c997-4c7b-8900-d15e08b68236,veh052,2025-11-11,East David,MD,121.71,Diesel,3.17,18.72
+0898312c-2172-4156-b094-39ab579e04bd,veh154,2025-11-11,Scottbury,VA,105.88,Gasoline,3.23,12.4
+120342ba-103f-46be-8110-6ef2564094b6,veh119,2025-11-11,Jeffreyburgh,GA,47.71,Gasoline,3.19,1.39
+160cc49d-90b2-473f-9337-65e4addc88bc,veh346,2025-11-11,Franklinton,TX,44.88,Diesel,3.46,16.85
+683bf5c6-dd80-4769-b03c-59b1f34e4708,veh268,2025-11-11,Samuelberg,OH,27.09,Diesel,3.25,12.57
+f7e90900-4b2f-4a1d-be3d-32bbdcbd4ebc,veh258,2025-11-11,East Breanna,SC,34.46,Gasoline,3.43,13.19
+dcb2f850-d180-4b17-b560-29edb5a29657,veh404,2025-11-11,South Brianna,NM,47.15,Gasoline,2.94,3.93
+cc971596-fd6e-4cd0-af45-70bef34a937e,veh340,2025-11-11,Lake Laurieberg,TX,49.96,Gasoline,3.18,2.7
+6ee276e5-0dc9-4e9e-8555-85298e4af2d1,veh002,2025-11-11,New Juan,CO,107.14,Gasoline,3.17,19.5
+9e14f52f-153f-48b1-815b-d72f6ac544a8,veh334,2025-11-11,Zimmermanton,AL,83.59,Gasoline,3.22,10.43
+c407fc90-759b-45c0-b6d0-8c2671d83db1,veh077,2025-11-11,Christopherport,TX,66.83,Diesel,3.22,9.8
+1b1ed6e6-283c-4475-92be-ea4c7478e76f,veh489,2025-11-11,Philipfurt,CA,109.01,Diesel,3.07,7.85
+6a0f1715-34ee-4a37-9dab-155402292b51,veh310,2025-11-11,Johntown,CA,111.28,Diesel,3.43,18.12
+52cd8acc-6e31-4afb-a6cf-e7b0fee46fa2,veh221,2025-11-11,South April,AZ,84.72,Diesel,3.33,5.65
+374862ff-f521-4aad-ab96-6fbcd430767e,veh424,2025-11-11,New Robert,UT,76.43,Diesel,3.28,5.84
+1da58d2a-7089-422b-a5aa-f78e45e96813,veh226,2025-11-11,Irwinfort,AR,44.44,Diesel,3.2,11.97
+c1c9b07b-37d8-4e3b-a5d2-d7f08becaaf8,veh124,2025-11-11,Morganville,DE,48.72,Diesel,3.14,18.42
+2b1b121c-4deb-40f0-a1e0-d32678c7e355,veh443,2025-11-11,East John,NE,48.68,Diesel,3.2,15.52
+a47b65e3-a83c-424b-8277-fe82469aa334,veh180,2025-11-11,North Tony,CA,120.1,Gasoline,2.91,4.51
+d140a24b-142c-4436-9024-f4c5014a0c1d,veh464,2025-11-11,Port Natasha,OK,75.02,Diesel,3.43,14.97
+9083a830-f638-4c8f-b79b-53a9e8841948,veh148,2025-11-11,South Donaldtown,WA,139.62,Diesel,3.04,14.72
+4db1c416-5505-4589-b4f9-64d237b8102c,veh365,2025-11-11,North Barbara,KY,114.69,Gasoline,3.38,4.03
+b93ab141-f119-4f28-bf4d-bbf1ad18d421,veh262,2025-11-11,Gomezhaven,AL,104.45,Diesel,3.02,10.63
+5465ed26-281d-4926-9497-30c538648774,veh164,2025-11-11,North Nicoleton,NC,41.85,Gasoline,3.4,10.14
+d6ea2617-a920-4092-9bc7-0b439d757996,veh454,2025-11-11,Christopherbury,OH,84.71,Gasoline,3.42,3.84
+adbc6711-630d-4006-a9ec-38eb4a580d62,veh164,2025-11-11,Jeanside,NV,138.94,Diesel,3.37,15.95
+72b8eb91-3cb4-4d88-8dc5-e3e88bea93b9,veh225,2025-11-11,Conleybury,NJ,72.3,Diesel,2.99,8.21
+c63ee423-608e-48d2-b119-bec3a520e107,veh042,2025-11-11,Kellyland,NV,23.83,Diesel,3.24,4.13
+7ff1746e-3d4e-4f60-b073-bb989ef7d407,veh393,2025-11-11,New Kenneth,VT,71.27,Diesel,2.92,18.24
+bf17d5c4-b0b4-4f47-b8e7-5b606b0a42de,veh126,2025-11-11,East Christopher,VA,112.58,Diesel,3.33,13.4
+a03dc943-7620-4d1c-8ed8-dd7a076ebb87,veh264,2025-11-11,Marcusview,WI,107.86,Diesel,3.22,9.7
+f119ca06-be5a-4a64-a86a-50f20a342b47,veh360,2025-11-11,Sharonfurt,RI,75.09,Gasoline,3.43,0.0
+340e0cc3-2e64-48c1-b8dc-ec9dd3bffdf5,veh357,2025-11-11,Forbesport,GA,48.55,Gasoline,2.93,10.09
+9e14bf0c-545e-463e-ab19-77440f621f9a,veh128,2025-11-11,East Deborah,OR,110.01,Diesel,2.91,16.48
+173d0b2e-f0dd-4f09-ad09-1ffea52c41af,veh381,2025-11-11,Angeltown,ME,95.24,Diesel,3.23,6.39
+93fe1242-f263-4f2b-8aa1-1a21b8068d91,veh264,2025-11-11,Fitzpatricktown,MO,41.74,Gasoline,3.16,16.69
+c7c985cd-d340-44a8-88b0-25eb988e0939,veh258,2025-11-11,Ashleyhaven,KS,119.82,Gasoline,3.43,19.0
+64c30037-d84d-4eeb-b99e-2c17fb991381,veh191,2025-11-11,New Rachel,DE,87.26,Gasoline,3.49,4.37
+1a49719a-a874-4f19-a92a-bded9c85207c,veh433,2025-11-11,Lake Todd,TX,19.79,Gasoline,2.96,14.47
+312dd74b-f542-41a0-8d13-fe039f59f534,veh159,2025-11-11,Susanview,IA,90.55,Gasoline,3.02,18.41
+20b41bdb-1e91-4b98-9af7-7db48841ec6c,veh433,2025-11-11,Emilyport,ND,130.82,Diesel,3.21,7.08
+669e96af-222c-4060-9261-ed33d6c19ca0,veh338,2025-11-11,New Jeffrey,IA,53.2,Gasoline,3.3,11.44
+d52b231d-9415-41be-9cc0-2fd6833d06da,veh134,2025-11-11,Lake Juanville,TN,79.52,Gasoline,3.22,10.73
+e30b82cd-0e5d-48c6-8f30-e0c1ae55ffab,veh496,2025-11-11,East Tinaberg,VA,28.87,Gasoline,3.47,8.12
+3e43e3cd-3db4-4c6c-8b84-73a94ceaa9f3,veh018,2025-11-11,Chadland,CA,112.12,Gasoline,3.28,7.82
+4420cae5-5d59-493a-a222-0e866a680f8d,veh281,2025-11-11,Wrightburgh,ID,47.0,Gasoline,3.4,4.81
+ec797d71-cb70-48cb-8b2e-34851c787b79,veh333,2025-11-11,South Jeffborough,WY,125.17,Gasoline,2.98,19.31
+38b6501e-671e-4113-92b2-f858c486bb95,veh207,2025-11-11,North Eric,CT,24.47,Diesel,3.16,0.35
+db1614c3-8c0c-4a4d-b3bd-94a6ea38a2d8,veh114,2025-11-11,South Josephborough,OR,56.98,Gasoline,3.17,10.32
+f5827d14-ca8a-4a1f-8084-c41b2336a913,veh431,2025-11-11,Port Brianna,IL,24.15,Diesel,3.06,17.39
+5f6883ad-44d8-4d26-a212-8f9a173cd7ef,veh293,2025-11-11,Emilyview,CA,19.49,Diesel,3.04,3.49
+1eb2dc98-f365-47ec-a1b6-417d5faff878,veh442,2025-11-11,Erikburgh,NY,48.29,Diesel,3.09,16.37
+bdd692f0-fb80-4129-8c6a-d88d5878863d,veh216,2025-11-11,New Derekmouth,MI,109.03,Gasoline,3.36,7.78
+d60643b9-39b2-46ed-ba9b-ceff1f1ce6d5,veh250,2025-11-11,Vincentville,OK,121.75,Gasoline,3.05,16.93
+d9416b49-a82b-4486-8628-9985eb473859,veh189,2025-11-11,South Kristin,KY,146.02,Gasoline,3.47,15.94
+481f4487-8cfe-4909-a2d8-703cbb8e1514,veh142,2025-11-11,Joseview,NJ,22.74,Diesel,2.95,9.72
+722d1a2f-af94-4945-a5d7-4f3a6ebb380d,veh358,2025-11-11,South Christyhaven,NM,66.02,Diesel,3.35,6.78
+a42cad19-0209-485b-95fb-9228a9d970d6,veh018,2025-11-11,Frazierside,CA,69.19,Gasoline,2.9,1.23
+2228b82f-3163-468d-a69f-924ffd0c3b3e,veh058,2025-11-11,West Cassandra,MI,87.1,Diesel,3.11,13.64
+68e6ec86-4bc3-49ba-96a1-32fb4566caa9,veh041,2025-11-11,East Stacy,SD,135.72,Gasoline,2.9,13.94
+8665cd2c-1a76-41b3-9635-c7a693edd3cd,veh488,2025-11-11,Emilyville,IN,54.07,Gasoline,3.42,13.53
+cd445c68-5bfc-41ba-b727-4599ec71e91d,veh404,2025-11-11,Port Lisaberg,MO,126.92,Diesel,3.23,11.09
+02c3458e-73c0-4484-8497-0023585d8b65,veh095,2025-11-11,West Matthewmouth,KY,111.99,Gasoline,3.44,9.4
+5215583e-249f-4420-b8f7-a792489edae4,veh124,2025-11-11,Lake Brenda,NC,29.07,Gasoline,3.08,1.25
+826027c0-7d30-4c15-aced-865f6b49631e,veh432,2025-11-11,Clarkport,ME,81.59,Gasoline,3.28,13.79
+4b78f4c8-4db2-427d-9f90-a8f0d3466471,veh092,2025-11-11,Lake Jacob,VT,76.54,Gasoline,2.98,13.39
+e94637d3-c8de-4212-849d-f34a8cf41567,veh112,2025-11-11,Mendezshire,KS,111.77,Gasoline,2.95,10.27
+63254f6e-75f0-4dd9-8b45-9b440a302039,veh391,2025-11-11,Clarkside,WI,113.5,Diesel,2.91,3.83
+ecb729c3-618c-4346-94cc-58c94fd2a695,veh439,2025-11-11,Lake Alexandrashire,ID,99.11,Diesel,3.13,7.15
+3aa2a89b-e7c6-4162-be2b-d7af3a9407f9,veh094,2025-11-11,Ellisfurt,NV,43.05,Gasoline,2.93,16.7
+9ecb66a5-e059-4750-bd49-a0e85bdf5b33,veh303,2025-11-11,New Laurenport,TN,18.17,Gasoline,3.04,14.64
+dcae6131-cb70-44db-ae82-ef57711d3e5b,veh203,2025-11-11,Port Jason,ME,28.08,Diesel,3.02,5.16
+40608bc1-1338-462e-aa3d-3e72a5e91a7e,veh360,2025-11-11,New Denisehaven,NC,140.74,Gasoline,3.25,1.96
+4cf9977f-a9e3-4fa5-8e0f-064a79e3e7cf,veh065,2025-11-11,Anthonyfort,KS,15.57,Gasoline,3.06,2.36
+3e3921f9-9f58-4480-a06d-0b4ffb42b93f,veh031,2025-11-11,New Teresa,FL,66.0,Gasoline,3.06,5.37
+b459e761-0e69-467b-b22d-2431be0261ad,veh308,2025-11-11,Ericaton,WA,37.86,Gasoline,3.48,15.29
+032145c1-7159-4da5-b4d5-8b6b4cdf60fa,veh211,2025-11-11,South Wendychester,OH,72.36,Diesel,3.06,17.39
+09271477-12c2-41d9-a02b-588582b66b3c,veh366,2025-11-11,Carlsonside,PA,41.23,Diesel,3.22,10.27
+9cb95e19-3fb6-465c-b287-706cda590ca7,veh329,2025-11-11,North Gene,WA,29.74,Gasoline,2.9,1.33
+4f1762d4-dd16-4670-a6fb-46e26ee4fd8c,veh167,2025-11-11,North Carolyn,NV,102.76,Diesel,3.34,10.69
+72c1f844-d7cd-41ba-90a8-7b131af1d499,veh499,2025-11-11,North Jennifermouth,ID,82.16,Diesel,2.99,19.71
+13343669-8cde-45cb-bcc2-604ff0cd0683,veh073,2025-11-11,Ashleyside,GA,55.69,Diesel,3.1,10.35
+dd45beb0-0f5a-4d8e-82b1-c35338abf176,veh169,2025-11-11,Jamiechester,ME,85.7,Diesel,3.29,10.06
+1cc95043-6830-48c9-a495-73ad5aa14aa1,veh405,2025-11-11,West Davidville,AZ,59.35,Diesel,3.22,3.19
+f9e90717-3453-449e-bc04-ccb757fe5c7d,veh034,2025-11-11,North Thomasstad,AZ,143.44,Gasoline,2.94,9.34
+12adac86-dceb-4bd5-8bbc-7df9ec287ff3,veh154,2025-11-11,Mccormickland,NE,143.17,Gasoline,3.15,13.42
+493d45d9-a589-4abf-8515-027175c68487,veh119,2025-11-11,Derekstad,AL,66.33,Diesel,2.98,2.28
+f6c8f62a-8532-4ead-b1a2-cce97c67d28e,veh091,2025-11-11,West Jasonburgh,SD,18.02,Gasoline,3.36,7.34
+3a931806-3df4-4ed8-8fd4-abbef3f9856f,veh430,2025-11-11,Ricemouth,NY,113.17,Gasoline,3.42,5.83
+193f7310-ea2f-44d3-bf96-14139d9206ea,veh334,2025-11-11,Derekhaven,FL,87.57,Diesel,3.32,14.09
+1091ceea-be95-49b7-bb0a-38708e0b932c,veh288,2025-11-11,Port Michael,MI,54.1,Gasoline,3.39,3.64
+59674fad-8712-43d0-bb7f-b8a82e22ea8b,veh171,2025-11-11,Reedtown,NY,118.01,Gasoline,3.09,14.34
+afb5284b-79c8-46c8-b433-48f400ce7dcf,veh342,2025-11-11,Port Manuelton,DE,67.37,Gasoline,3.34,7.49
+e2dacce2-e824-41fb-981f-0309a7497b0f,veh053,2025-11-11,West Ashleychester,VA,95.19,Diesel,2.95,10.48
+f2b60387-6c80-4c57-9c02-e8f9711fc9d7,veh365,2025-11-11,West Lorimouth,VT,58.97,Diesel,3.21,5.95
+663c6c62-6c2a-4357-891f-c149510274d1,veh215,2025-11-11,Lake Courtney,ID,108.99,Gasoline,3.23,18.71
+a49db599-567d-4b43-a131-9bd7fea92226,veh033,2025-11-11,West Phillipborough,UT,24.69,Gasoline,3.38,1.05
+511d6bdd-ecf1-4b4a-81f3-281d41cf9d09,veh100,2025-11-11,Lake Jasonport,ND,124.26,Diesel,3.35,9.14
+fc3ae3da-4f49-4be9-9549-ad5d99b7381b,veh145,2025-11-11,Alecview,IN,26.71,Diesel,3.36,18.25
+2e9480b7-06da-496f-9057-34d717241533,veh157,2025-11-11,Woodport,SD,85.32,Gasoline,3.14,12.88
+0946b474-a206-4f62-9f5b-f2bed707c786,veh409,2025-11-11,Scottland,MO,112.25,Gasoline,3.43,15.0
+1769e044-081e-4bd9-bd5f-8798818d4dc9,veh126,2025-11-11,Lake Amanda,NM,26.1,Gasoline,3.27,15.84
+4f7fca56-e38b-44bb-be55-af783cf3a4e5,veh330,2025-11-11,Pacechester,DE,94.28,Gasoline,2.91,16.75
+cfe9b645-a28f-4cdf-a204-a9510f66bfab,veh365,2025-11-11,Anthonyport,MA,25.56,Gasoline,3.26,12.58
+9838e2c8-400d-4d54-9ba0-b7d9505ae2fd,veh248,2025-11-11,Lake Audrey,MT,77.09,Gasoline,3.29,16.2
+a5e2f640-ebe0-41f7-9360-fd6ad92fb755,veh158,2025-11-11,South Maryberg,SD,98.51,Diesel,3.35,5.25
+f22e85c9-0e06-42ff-9f6c-2256a3df8839,veh003,2025-11-11,South William,WI,115.76,Diesel,2.93,7.8
+93428b7d-2d49-4c6d-8a2c-0badb839895b,veh433,2025-11-11,Moniquefort,IL,10.3,Gasoline,3.48,3.11
+08c1354a-d654-4b69-8945-d2372577cff4,veh171,2025-11-11,Maryton,GA,113.17,Diesel,3.06,14.84
+0036cd88-9d21-440d-94a7-0bc2e87e41b1,veh063,2025-11-11,Andrestad,NC,14.92,Diesel,3.01,7.07
+2c9b623f-90d7-4132-924c-fc010d9a611f,veh497,2025-11-11,South Michele,NJ,141.38,Gasoline,3.11,0.53
+c8729ed5-6711-48d8-a83b-07429a29e0c1,veh377,2025-11-11,Hernandezchester,CO,149.93,Gasoline,3.44,9.18
+87303b3a-c95b-4d48-b9cb-ad607bbf0a35,veh414,2025-11-11,Stacyport,GA,14.25,Gasoline,3.11,9.48
+185e254f-c7f8-4c34-8858-494feda576cd,veh037,2025-11-11,Hernandezchester,MO,144.89,Gasoline,3.01,13.48
