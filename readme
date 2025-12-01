@@ -1,7 +1,7 @@
 # 📦 IFTA Analytics Pipeline — End-to-End Modern Data Engineering Project
 
 
-This project is a complete, Dockerized,  data pipeline that processes mileage & fuel usage for generating IFTA (International Fuel Tax Agreement) reports.
+## This project is a complete, Dockerized,  data pipeline that processes mileage & fuel usage for generating IFTA (International Fuel Tax Agreement) reports.
 
 It demonstrates real-world data engineering skills, including ingestion, orchestration, storage, transformations, and medallion architecture using Airflow, MinIO, PostgreSQL, dbt, and FastAPI.
 
