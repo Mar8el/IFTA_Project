@@ -64,9 +64,22 @@ FastAPI → Airflow → MinIO → Postgres → dbt → Gold Tables → Visualiza
 
 **join** — Joined table of mileage + gallons per state (48 rows). 
 
+## 📊 Final Deliverable
+
+A clean, analytics-ready dataset. 
+
+Report is ready.
+
+This can be visualized using Apache Superset, Power BI, or Tableau. 
 
 ``` 
 git clone https://github.com/Mar8el/IFTA_Project.git
 ```
+
+```
 cd IFTA_Project
+```
+
+```
 docker compose up
+```
