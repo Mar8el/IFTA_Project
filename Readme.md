@@ -72,7 +72,7 @@ Report is ready.
 
 This can be visualized using Apache Superset, Power BI, or Tableau.
 
-| State | total_mileage  |total_fuel |
+| State | total_mileage | total_fuel |
 | AL |	6132 |	541 |
 | AR |	6330 |	374 |
 | AZ |	6766 |	786 |
