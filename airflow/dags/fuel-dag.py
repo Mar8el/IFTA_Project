@@ -1,9 +1,3 @@
-"""
-DAG: minio_to_postgres_fuel
-Hard-coded MinIO + PostgreSQL (psycopg2)
-No Airflow connections needed
-"""
-
 from datetime import datetime
 from airflow import DAG
 from airflow.operators.python import PythonOperator
@@ -12,17 +6,12 @@ import io
 import psycopg2
 import logging
 
-# ----------------------------------------------------------------------
-# CONFIG – HARD-CODED
-# ----------------------------------------------------------------------
-# MinIO
 MINIO_ENDPOINT          = "http://minio:9000"
 MINIO_ACCESS_KEY        = "minioadmin_ifta"
 MINIO_SECRET_KEY        = "minioadmin_ifta"
 MINIO_BUCKET            = "fuel"
 MINIO_KEY               = "fuel_data.csv"
 
-# PostgreSQL
 PG_HOST                 = "postgres"
 PG_PORT                 = 5432
 PG_DB                   = "db"
@@ -31,9 +20,6 @@ PG_PASSWORD             = "db_password"
 TARGET_TABLE            = "fuel_data"
 
 
-# ----------------------------------------------------------------------
-# TASK 1 – Create table
-# ----------------------------------------------------------------------
 def create_fuel_table(**kwargs):
     logging.info("Creating table with psycopg2.connect(...)")
 
@@ -72,9 +58,7 @@ def create_fuel_table(**kwargs):
         conn.close()
 
 
-# ----------------------------------------------------------------------
-# TASK 2 – Copy CSV from MinIO → PostgreSQL
-# ----------------------------------------------------------------------
+
 def copy_minio_to_postgres(**kwargs):
     logging.info("Downloading CSV from MinIO...")
 
@@ -125,9 +109,7 @@ def copy_minio_to_postgres(**kwargs):
         conn.close()
 
 
-# ----------------------------------------------------------------------
-# DAG
-# ----------------------------------------------------------------------
+
 with DAG(
     dag_id="minio_to_postgres_fuel",
     start_date=datetime(2024, 1, 1),
@@ -148,5 +130,6 @@ with DAG(
         python_callable=copy_minio_to_postgres,
     )
 
-    # Order: create → load
+
+
     t_create >> t_load
