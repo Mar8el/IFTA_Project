@@ -9,7 +9,7 @@ It demonstrates real-world data engineering skills, including ingestion, orchest
 
 FastAPI → Airflow → MinIO → Postgres → dbt → Gold Tables → Visualization
 
-### Components
+## Components
 
 **FastAPI** – Generates synthetic truck mileage data (similar to Samsara, GeoTab, Fleetio).
 
@@ -36,7 +36,35 @@ FastAPI → Airflow → MinIO → Postgres → dbt → Gold Tables → Visualiza
 
 **pgAdmin** – UI for inspecting Postgres.
 
-Docker Compose – Everything runs locally, fully isolated.
+
+
+**Docker Compose** – Everything runs locally, fully isolated.
+
+## 🏗 Medallion Architecture
+
+### Bronze Layer
+
+**ifta_raw** — API mileage per vehicle (48 state columns × 500 vehicles).
+
+**fuel_data** — CSV fuel transactions (400 rows manually uploaded to MinIO).
+
+
+### Silver Layer
+
+**mileage_silver** — Sum of all mileage by state, converted from meters → miles.
+
+**fuel_silver** — Cleaned fuel data (gallons + total cost only).
+
+
+### Gold Layer
+
+**mileage_gold** — Unpivot mileage to 48 rows (state, mileage).
+
+**fuel_gold** — Sum of gallons & cost per state.
+
+**join** — Joined table of mileage + gallons per state (48 rows). 
+
+
 ``` 
 git clone https://github.com/Mar8el/IFTA_Project.git
 ```
