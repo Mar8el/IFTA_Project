@@ -70,16 +70,19 @@ A clean, analytics-ready dataset.
 
 Report is ready.
 
-This can be visualized using Apache Superset, Power BI, or Tableau. 
+This can be visualized using Apache Superset, Power BI, or Tableau.
 
+## Test It Out
+
+1 - Clone the repository: 
 ``` 
 git clone https://github.com/Mar8el/IFTA_Project.git
 ```
-
+2 - Navigate to the project directory 
 ```
 cd IFTA_Project
 ```
-
+3 - Local deployment 
 ```
 docker compose up
 ```
