@@ -11,21 +11,21 @@ FastAPI → Airflow → MinIO → Postgres → dbt → Gold Tables → Visualiza
 
 ### Components
 
-FastAPI – Generates synthetic truck mileage data (similar to Samsara, GeoTab, Fleetio).
+**FastAPI** – Generates synthetic truck mileage data (similar to Samsara, GeoTab, Fleetio).
 
-MinIO – S3-compatible storage for raw JSON & uploaded CSV fuel files.
+**MinIO** – S3-compatible storage for raw JSON & uploaded CSV fuel files.
 
-Airflow – 3 DAGs orchestrating ingestion and transformation:
+**Airflow** – 3 DAGs orchestrating ingestion and transformation:
 
-1st Dag - Fetches mileage data from API then store JSON in MinIO + appends to Postgres.
+_1st Dag_ - Fetches mileage data from API then store JSON in MinIO + appends to Postgres.
 
-2nd Dag - Reads fuel CSV from MinIO then loads into Postgres.
+_2nd Dag_ - Reads fuel CSV from MinIO then loads into Postgres.
 
-3rd Dag - Run Dbt models
+_3rd Dag_ - Run Dbt models
 
-PostgreSQL – Raw, Silver, and Gold tables.
+**PostgreSQL** – Raw, Silver, and Gold tables.
 
-dbt – 5 models implementing a medallion architecture:
+**dbt** – 5 models implementing a medallion architecture:
 
 Bronze: raw API mileage + raw fuel CSV
 
