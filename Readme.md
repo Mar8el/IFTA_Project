@@ -72,6 +72,15 @@ Report is ready.
 
 This can be visualized using Apache Superset, Power BI, or Tableau.
 
+|State|total_mileage|total_fuel
+|AL|	6132|	541
+|AR|	6330|	374
+|AZ|	6766|	786
+|CA|	6523|	1323
+|CO|	7796|	764
+|CT|	7154|	431
+|DE|	6599|	810
+
 ## Test It Out
 
 1 - Clone the repository: 
