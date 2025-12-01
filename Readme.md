@@ -17,21 +17,21 @@ FastAPI → Airflow → MinIO → Postgres → dbt → Gold Tables → Visualiza
 
 **Airflow** – 3 DAGs orchestrating ingestion and transformation:
 
-**_1st Dag_** - Fetches mileage data from API then store JSON in MinIO + appends to Postgres.
+   **_1st Dag_** - Fetches mileage data from API then store JSON in MinIO + appends to Postgres.
 
-**_2nd Dag_** - Reads fuel CSV from MinIO then loads into Postgres.
+   **_2nd Dag_** - Reads fuel CSV from MinIO then loads into Postgres.
 
-**_3rd Dag_** - Run Dbt models
+   **_3rd Dag_** - Run Dbt models
 
 **PostgreSQL** – Raw, Silver, and Gold tables.
 
-**dbt** – 5 models implementing a medallion architecture:
+**DBT** – 5 models implementing a medallion architecture:
 
-**_Bronze_**: raw API mileage + raw fuel CSV
+   **_Bronze_**: raw API mileage + raw fuel CSV
 
-**_Silver_**: cleaned mileage & cleaned fuel
+   **_Silver_**: cleaned mileage & cleaned fuel
 
-**_Gold_**: aggregated mileage, aggregated fuel, and final joined table
+   **_Gold_**: aggregated mileage, aggregated fuel, and final joined table
 
 
 **pgAdmin** – UI for inspecting Postgres.
