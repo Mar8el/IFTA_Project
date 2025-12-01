@@ -7,7 +7,7 @@ import json
 import psycopg2
 from airflow.models.taskinstance import TaskInstance
 
-# ---- Hardcoded state columns (used for the Postgres table schema) ----
+
 STATE_COLUMNS = [
     "AL","AR","AZ","CA","CO","CT","DE","FL","GA","ID","IL","INDIANA","IA",
     "KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV",
@@ -16,7 +16,7 @@ STATE_COLUMNS = [
 ]
 
 def call_api_and_save_to_minio():
-    """Fetches data from FastAPI, saves it to MinIO, and pushes the key via XCom."""
+
     # 1. MinIO client setup
     s3 = boto3.client(
         "s3",
@@ -40,19 +40,18 @@ def call_api_and_save_to_minio():
         ContentType="application/json"
     )
     
-    # Return value is automatically pushed to XCom
+
     return file_key
 
 def load_data_from_minio_to_postgres(ti: TaskInstance):
-    """Pulls file key via XCom, loads data from MinIO, and inserts records into Postgres."""
-    # 1. Retrieve file key
+
     minio_file_key = ti.xcom_pull(task_ids='call_api_and_save_to_minio', key='return_value')
 
-    # If XCom failed to pull, let the task fail instead of checking with a print statement
+
     if not minio_file_key:
         raise ValueError("MinIO file key not found in XCom.")
 
-    # 2. Connect to MinIO and load data
+
     s3 = boto3.client(
         "s3",
         endpoint_url="http://minio:9000",
@@ -98,7 +97,7 @@ def load_data_from_minio_to_postgres(ti: TaskInstance):
     conn.close()
 
 
-# ---- Combined Airflow DAG Definition ----
+
 with DAG(
     dag_id="from_API_to_minio_n_postgres",
     start_date=datetime(2025, 1, 1),
@@ -117,5 +116,5 @@ with DAG(
         python_callable=load_data_from_minio_to_postgres,
     )
 
-    # Set the dependency
+
     save_to_minio_task >> load_to_postgres_task
