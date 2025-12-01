@@ -82,6 +82,7 @@ This can be visualized using Apache Superset, Power BI, or Tableau.
 | CO    | 7796    | 764     |
 | CT    | 7154    | 431     |
 | DE    | 6599    | 810     |
+| ...    | ...    | ...     |
 
 ## Test It Out
 
