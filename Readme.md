@@ -37,7 +37,8 @@ FastAPI → Airflow → MinIO → Postgres → dbt → Gold Tables → Visualiza
 **pgAdmin** – UI for inspecting Postgres.
 
 Docker Compose – Everything runs locally, fully isolated.
-
+``` 
 git clone https://github.com/Mar8el/IFTA_Project.git
+```
 cd IFTA_Project
 docker compose up
