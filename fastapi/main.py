@@ -9,13 +9,12 @@ app = FastAPI()
 
 eastern_timezone = pytz.timezone("US/Eastern")
 
-# List of 48 states
+# Oregon instead of OR and Indiana instead of IN. To avoid potential issues with dbt models later 
 STATES = ["AL", "AR", "AZ", "CA", "CO", "CT", "DE", "FL", "GA", "ID", "IL", "INDIANA", "IA",
           "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV",
           "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OREGON", "PA", "RI", "SC", "SD",
           "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
 
-# Pydantic models
 class StateMeters(BaseModel):
     state: str
     meters: float | None
